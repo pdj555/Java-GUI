@@ -69,11 +69,3 @@ Implement a Bar Graph that displays the time difference between two given Blocks
 <img src=./samples/TDiff3.PNG width=50% height=50%>
 
 (10 pts)
-
-## Grading 
-
-Plagiarism will not be tolerated under any circumstances. Participating students will be penalized depending on the degree of plagiarism. It includes “No-code” sharing among the students. It can lead to academic misconduct reporting to the authority if identical code is found among the students. 
-
-This project will be graded entirely off of your provided screenshots. You should take screenshots to match each one given in the readme. Please place your screenshots in a folder called /screenshots in your project 5 repo. The layouts and charts do not have to match exactly, the grading is based off having all the required components and functionality. Also be sure to include your name in the title of the window as a signature of your work and make sure it is visible in the screenshots. 
-
-Submit your project before the due date/time. No late submissions allowed.
